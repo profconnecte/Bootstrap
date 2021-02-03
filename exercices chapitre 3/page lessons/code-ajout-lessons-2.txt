@@ -1,0 +1,16 @@
+							<!-- Image cliquable qui sera agrandie -->
+							<a href="#" data-bs-toggle="modal" data-bs-target="#monModal1">
+								<img src="images/css.jpg" alt="Animations CSS modernes" class="card-img-top">
+							</a>
+							<!-- Boite de dialogue Modal -->
+							<div class="modal fade" id="monModal1" tabindex="-1" aria-labelledby="nomMonModal1" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<img src="images/css.jpg">
+										<div class="modal-footer">
+											<button type="button" class="btn btn-outline-dark" data-bs-dismiss="modal">Fermer</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- Fin Boite de dialogue Modal -->

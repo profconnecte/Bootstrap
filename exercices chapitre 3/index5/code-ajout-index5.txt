@@ -1,0 +1,6 @@
+						<div class="card">
+							<div class="card-body">
+								<h5 class="card-title">Devenez diplomé</h5>
+								<p class="card-text">de 0 à héro</p>
+							</div>
+						</div>
