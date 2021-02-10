@@ -1,4 +1,4 @@
-						<!-- Première zone-->
+						<!-- Code Première zone-->
 						<label for="timeInput">Temps :</label>
 						<input type="text" class="form-control" placeholder="mm:ss" id="Heure">
 					</div>
