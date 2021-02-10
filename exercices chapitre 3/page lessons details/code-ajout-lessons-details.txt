@@ -1,10 +1,13 @@
+						<!-- Première zone-->
 						<label for="timeInput">Temps :</label>
 						<input type="text" class="form-control" placeholder="mm:ss" id="Heure">
 					</div>
-
+					
+						<!-- Code deuxième zone-->
 						<label for="note">Note :</label>
 						<textarea class="form-control" id="note" rows="5" required></textarea>
-
+							
+							<!--Code troisième zone-->
 							<input class="form-check-input" type="checkbox" id="publicCheck">
 							<label class="form-check-label" for="gridCheck">
 								Rendre cette notation publique
