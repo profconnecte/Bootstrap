@@ -1,3 +1,4 @@
+					<!-- Code première carte-->
 					<div class="col-12 col-lg-4">
 						<div class="card text-center">
 								<img src="images/css.jpg" alt="Animations CSS modernes" class="card-img-top">
@@ -8,6 +9,9 @@
 							</div>
 						</div>
 					</div>
+					
+					
+					<!-- Code deuxième carte-->
 					<div class="col-12 col-lg-4">
 						<div class="card text-center">
 								<img src="images/js.jpg" alt="Programmation JavaScript" class="card-img-top">
@@ -18,6 +22,8 @@
 							</div>
 						</div>
 					</div>
+					
+					<!-- Code troisième carte-->
 					<div class="col-12 col-lg-4">
 						<div class="card text-center">		
 								<img src="images/swift.jpg" alt="Programmation Swift" class="card-img-top">
